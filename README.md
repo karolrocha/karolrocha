@@ -10,4 +10,4 @@
 - 😄 Pronouns: sher/her
 - ⚡ Fun fact: I love embroidering! 
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=karolrocha&&show_icons=true&title_color=9DF25C&icon_color=9838cc&text_color=EA205E&bg_color=000000)  
+![enter image description here](https://github-readme-stats.vercel.app/api?username=karolrocha&&show_icons=true&title_color=E68ABB&icon_color=FBD876&text_color=A888D1&bg_color=000000)  
